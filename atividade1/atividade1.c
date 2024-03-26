@@ -18,7 +18,7 @@ int main(int argc, char* argv[]){
         if(menor_n > n){
             menor_n = n;
         }
-
+ 
         if(n > maior_n){
             maior_n = n;
         }
